@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.fe81ee6e.chunk.css",
-    "main.js": "./static/js/main.a39f8622.chunk.js",
-    "main.js.map": "./static/js/main.a39f8622.chunk.js.map",
+    "main.css": "./static/css/main.2701aa5f.chunk.css",
+    "main.js": "./static/js/main.9ebc23cf.chunk.js",
+    "main.js.map": "./static/js/main.9ebc23cf.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.cb4297d9.js",
     "runtime-main.js.map": "./static/js/runtime-main.cb4297d9.js.map",
-    "static/js/2.52a4f19c.chunk.js": "./static/js/2.52a4f19c.chunk.js",
-    "static/js/2.52a4f19c.chunk.js.map": "./static/js/2.52a4f19c.chunk.js.map",
+    "static/js/2.27bc66ff.chunk.js": "./static/js/2.27bc66ff.chunk.js",
+    "static/js/2.27bc66ff.chunk.js.map": "./static/js/2.27bc66ff.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.fe81ee6e.chunk.css.map": "./static/css/main.fe81ee6e.chunk.css.map",
-    "static/js/2.52a4f19c.chunk.js.LICENSE.txt": "./static/js/2.52a4f19c.chunk.js.LICENSE.txt"
+    "static/css/main.2701aa5f.chunk.css.map": "./static/css/main.2701aa5f.chunk.css.map",
+    "static/js/2.27bc66ff.chunk.js.LICENSE.txt": "./static/js/2.27bc66ff.chunk.js.LICENSE.txt",
+    "static/media/Carousel.scss": "./static/media/free-icon-banned.7abc76a2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cb4297d9.js",
-    "static/js/2.52a4f19c.chunk.js",
-    "static/css/main.fe81ee6e.chunk.css",
-    "static/js/main.a39f8622.chunk.js"
+    "static/js/2.27bc66ff.chunk.js",
+    "static/css/main.2701aa5f.chunk.css",
+    "static/js/main.9ebc23cf.chunk.js"
   ]
 }
